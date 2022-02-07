@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G0D0HL0RD
-- 👀 I’m interested in ... <webDev><webDesign><JavaProgramming>
+- 👀 I’m interested in ... <webDev> <webDesign> <JavaProgramming>
 - 🌱 I’m currently learning ...webDev from very basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
