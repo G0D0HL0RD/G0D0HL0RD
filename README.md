@@ -1,4 +1,5 @@
-<div>
+<div align="center">
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkybWdyZzB3dWdpbDV2ZHo5Z2ZzNGZsZXJjeWRpOXoyOWRreTgxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
   <h2 align="center">Hi All 👋🏻, Welcome to my <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/> profile.</h2>
 </div>
 <div align="center">
@@ -12,8 +13,6 @@
 </div>
 <br></br>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkybWdyZzB3dWdpbDV2ZHo5Z2ZzNGZsZXJjeWRpOXoyOWRreTgxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
-  
   <h3>🌐 Socials:</h3>
   <div id="badges">
   <a href="https://www.linkedin.com/in/samaksh-g-100525202/">
