@@ -38,7 +38,7 @@
   </div>
 </div>
 <div>
-  <h2> 🧑🏻‍💻 About Me </h2>
+  <h2 align="center"> 🧑🏻‍💻 About Me </h2>
   <ul>
     <li>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
     <li>🌱 Graduated with a degree in Bachelors in Computer Science and Engineering.</li>
